@@ -1,0 +1,8 @@
+log_path: ./logs/log.txt
+db:
+  host: localhost
+  port: 5432
+  user: alex
+  password: 45hekmrf
+  db: filmoteka
+  ssl: disable
